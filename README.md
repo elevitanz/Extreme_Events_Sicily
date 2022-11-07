@@ -20,6 +20,7 @@ Below a detailed description of the repository:
   ('geo_cl_to_excel' folder) and temporal ('temp_cl_to_excel' folder) settings. 
   We also report the transition of geographical clusters into the Sicily map ('geo_cl_to_map'
   folder).
+Note: unzip the files in the 'global_stations' folder.
 
 	- In the 'geo_cl_to_excel' folder we report the geographical clustering scripts.
 	  Both the Euclidean and Correlation metrics were used. 
