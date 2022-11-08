@@ -1,5 +1,5 @@
 # Extreme_Events_Sicily
-This repository contains the code used in the project: "A machine learning approach detecting the 2021 Extreme Rainfall Events in Sicily". We wrote the 100% of the code in Python language.
+The repository contains the code used in the paper: "A machine learning approach detecting the 2021 Extreme Rainfall Events in Sicily", Vitanza et al. Please cite the paper when using the code.
 
 Data have been obtained thanks to the kind permission of SIAS: "Servizio Informativo Agrometeorologico Siciliano".
 
@@ -84,3 +84,12 @@ Note: unzip the files in the 'global_stations' folder.
 	
 	- All the annual clustering results reported in the SI document are available in the
 	  'clustering' folder above.
+	  
+REQUIREMENTS: 
+- Python programming language (V. 3)
+- Scikit-learn library (V. 1.0.2)
+- NumPy (V. 1.21.4)
+- SciPy (V. 1.8.0)
+- Pandas (V. 1.3.5)
+- Matplotlib (V. 3.5.1)
+- Geopandas (V. 0.10.2)
