@@ -93,3 +93,4 @@ REQUIREMENTS:
 - Pandas (V. 1.3.5)
 - Matplotlib (V. 3.5.1)
 - Geopandas (V. 0.10.2)
+- os
