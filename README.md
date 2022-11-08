@@ -37,6 +37,9 @@ Note: unzip the files in the 'global_stations' folder.
 
 	- In the 'temp_cl_to_excel' folder we report the scripts related to the temporal
 	  clustering. Both the Euclidean and Correlation metrics were used.
+	
+	- The scripts "annual_mean_stations.py", "mean_stations.py" and "glow_years.py" let to create the "annual_mean_stations", "mean_stations" and
+	  "global_stations" folders, respectively.
 
 - In the 'statistical validation' folder we report the Kruskal-Wallis implementation
   ('kruskal_wallis' folder) and the scripts related to the indicators histograms both temporal-
