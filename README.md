@@ -1,5 +1,5 @@
 # Extreme_Events_Sicily
-The repository contains the code used in the paper: "A machine learning approach detecting the 2021 Extreme Rainfall Events in Sicily", Vitanza et al. Please cite the paper when using the code.
+The repository contains the code used in the paper: "A multi-modal machine learning approach to detect Extreme Rainfall Events in Sicily", Vitanza et al. Please cite the paper when using the code.
 
 Data have been obtained thanks to the kind permission of SIAS: "Servizio Informativo Agrometeorologico Siciliano".
 
