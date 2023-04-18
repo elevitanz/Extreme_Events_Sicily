@@ -1,4 +1,8 @@
 # Extreme_Events_Sicily
+
+If you use this code please cite the related article:
+Vitanza, E., Dimitri, G.M. & Mocenni, C. A multi-modal machine learning approach to detect extreme rainfall events in Sicily. Sci Rep 13, 6196 (2023). https://doi.org/10.1038/s41598-023-33160-9
+
 The repository contains the code used in the paper: "A multi-modal machine learning approach to detect Extreme Rainfall Events in Sicily", Vitanza et al. Please cite the paper when using the code.
 
 Data have been obtained thanks to the kind permission of SIAS: "Servizio Informativo Agrometeorologico Siciliano".
